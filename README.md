@@ -1,2 +1,2 @@
 # CP164-Code
-All CP164 Labs, Assignments and Exams
+All CP164 Labs and Assignments
